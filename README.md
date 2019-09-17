@@ -4,7 +4,14 @@
 # Meme Machine
 With the Meme Machine App, visually impaired people can have access and experience the humor of Memes .
 The design provides the user easier discoverability and navigation to process the Memes by the to text to speech feature.
-
+## Additional Description
+This app was created for the CSUN Accesibility Competition of 2019. We were creating an App to help memes be read by our app for the legally blind. We used the Android platform (Android Studio) to help build this. During the duration of this project, we used my (Joshua Kristanto's) machine to help push files to git. I (Joshua Kristanto) contributed to this project by teaching my teammates Android Studio and learning and also teaching how to implement a Graphical Interface and how to switch between scenes. While we had many concepts that we didn't implement due to time restrictions and unavailable APIs, we learned a lot and the importance of keeping it simple.
+## The Team
+* Joshua Kristanto
+* Christian Shadd
+* Daniel Stein
+* Maria Verna Aquino 
+* Joanna Muñoz
 ## Getting Started
 
 ### Hardware Dependencies 
